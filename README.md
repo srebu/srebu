@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @srebu
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning Swift/JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me ... working on it
 
 <!---
